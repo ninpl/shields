@@ -202,7 +202,7 @@
     "react": "^18.3.0",
     "react-dom": "^18.3.1",
     "read-all-stdin-sync": "^1.0.5",
-    "rimraf": "^6.0.1",
+    "rimraf": "^6.1.0",
     "sazerac": "^2.0.0",
     "simple-git-hooks": "^2.12.1",
     "sinon": "^20.0.0",
