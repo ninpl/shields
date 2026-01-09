@@ -10,7 +10,7 @@
     "author": "jNullj",
     "license": "CC0",
     "dependencies": {
-        "@actions/core": "^1.11.1",
+        "@actions/core": "^2.0.2",
         "@actions/github": "^6.0.0"
     }
 }
